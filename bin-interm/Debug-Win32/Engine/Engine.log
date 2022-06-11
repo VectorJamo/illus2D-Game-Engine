@@ -1,1 +1,33 @@
-﻿
+﻿  stb_image.cpp
+  IndexBuffer.cpp
+  VertexArray.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.h(28,21): warning C4251: 'illus2d::graphics::VBlayout::p_dataPerIndex': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::VBlayout'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.h(28): message : see declaration of 'std::vector<int,std::allocator<int>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.cpp(49,22): warning C4018: '<': signed/unsigned mismatch
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.cpp(62,22): warning C4018: '<=': signed/unsigned mismatch
+  VertexBuffer.cpp
+  Shader.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(22,16): warning C4251: 'illus2d::graphics::Shader::p_vsCode': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(22,26): warning C4251: 'illus2d::graphics::Shader::p_fsCode': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(23,16): warning C4251: 'illus2d::graphics::Shader::p_vsCodePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(23,30): warning C4251: 'illus2d::graphics::Shader::p_fsCodePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Texture.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Texture.h(13,16): warning C4251: 'illus2d::graphics::Texture::p_filePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Texture'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Window.cpp
+  mat4.cpp
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Clock.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\utilities\Clock.cpp(18,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.lib and object C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\vc120.pdb'; linking object as if no debug info
+  Engine.vcxproj -> C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.dll

@@ -1,1 +1,13 @@
-﻿
+﻿          1 file(s) copied.
+  Main.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.h(28,21): warning C4251: 'illus2d::graphics::VBlayout::p_dataPerIndex': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::VBlayout'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\data_buffers\VertexArray.h(28): message : see declaration of 'std::vector<int,std::allocator<int>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(22,16): warning C4251: 'illus2d::graphics::Shader::p_vsCode': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(22,26): warning C4251: 'illus2d::graphics::Shader::p_fsCode': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(23,16): warning C4251: 'illus2d::graphics::Shader::p_vsCodePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\graphics\Shader.h(23,30): warning C4251: 'illus2d::graphics::Shader::p_fsCodePath': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'illus2d::graphics::Shader'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\include\xstring(4927): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  Sandbox.vcxproj -> C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Sandbox\Sandbox.exe

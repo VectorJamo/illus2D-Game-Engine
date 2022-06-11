@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\2D Game Engine\illus2D Engine\bin\Debug-Win32\Engine\Engine.dll</FullPath>
+      <FullPath>C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\2D Game Engine\illus2D Engine\bin\Debug-Win32\Sandbox\Sandbox.exe</FullPath>
+      <FullPath>C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Sandbox\Sandbox.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
