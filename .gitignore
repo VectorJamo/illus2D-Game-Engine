@@ -1,6 +1,6 @@
 .vs/
-.Engine/Engine.vcxproj.user
-.Sandbox/Sandbox.vcxproj.user
+Engine/Engine.vcxproj.user
+Sandbox/Sandbox.vcxproj.user
 
 
 

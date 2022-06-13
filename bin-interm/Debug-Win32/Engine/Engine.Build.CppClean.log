@@ -1,29 +1,27 @@
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vc143.pdb
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vc143.idb
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\clock.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vec4.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vec3.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vec2.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\mat4.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\window.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\texture.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\shader.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vertexbuffer.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\vertexarray.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\indexbuffer.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\sprite.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\renderer.obj
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\stb_image.obj
-c:\2d game engine\illus2d engine\bin\debug-win32\engine\engine.lib
-c:\2d game engine\illus2d engine\bin\debug-win32\engine\engine.exp
-c:\2d game engine\illus2d engine\bin\debug-win32\engine\engine.dll
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.ilk
-c:\2d game engine\illus2d engine\bin\debug-win32\engine\engine.pdb
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.vcxproj.filelistabsolute.txt
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\cl.command.1.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\cl.read.1.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\cl.write.1.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\engine.write.1u.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\link.command.1.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\link.read.1.tlog
-c:\2d game engine\illus2d engine\bin-interm\debug-win32\engine\engine.tlog\link.write.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vc143.pdb
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vc143.idb
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\clock.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vec4.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vec3.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vec2.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\mat4.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\window.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\texture.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\shader.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vertexbuffer.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\vertexarray.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\indexbuffer.obj
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\stb_image.obj
+c:\2d game engine\illus2d-game-engine\bin\debug-win32\engine\engine.lib
+c:\2d game engine\illus2d-game-engine\bin\debug-win32\engine\engine.exp
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.ilk
+c:\2d game engine\illus2d-game-engine\bin\debug-win32\engine\engine.dll
+c:\2d game engine\illus2d-game-engine\bin\debug-win32\engine\engine.pdb
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.vcxproj.filelistabsolute.txt
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\cl.command.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\cl.read.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\cl.write.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\engine.write.1u.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\link.command.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\link.read.1.tlog
+c:\2d game engine\illus2d-game-engine\bin-interm\debug-win32\engine\engine.tlog\link.write.1.tlog

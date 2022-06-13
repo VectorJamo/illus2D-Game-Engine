@@ -194,6 +194,10 @@
     <None Include="res\shaders\fragment_shader.glsl" />
     <None Include="res\shaders\vertex_shader.glsl" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\textures\logo.png" />
+    <Image Include="res\textures\wood.jpg" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

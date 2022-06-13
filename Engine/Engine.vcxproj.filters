@@ -104,4 +104,12 @@
     <None Include="res\shaders\fragment_shader.glsl" />
     <None Include="..\bin\Debug-Win32\Engine\Engine.dll" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\textures\logo.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\textures\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>

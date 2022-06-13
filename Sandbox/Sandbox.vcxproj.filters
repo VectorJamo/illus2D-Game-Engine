@@ -23,12 +23,4 @@
     <None Include="src\shaders\fragment_shader.glsl" />
     <None Include="src\shaders\vertex_shader.glsl" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="res\textures\logo.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="res\textures\wood.jpg">
-      <Filter>Resource Files</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
