@@ -8,15 +8,15 @@ namespace illus2d {
 		class I2D Clock
 		{
 		private:
-			float p_lastTime;
-			float p_deltaTime;
-			int p_fps;
+			static float p_lastTime;
+			static float p_deltaTime;
+			static int p_fps;
 
 		public:
-			Clock();
-			void processInputs();
-			inline float getDeltaTime() { return p_deltaTime; };
-			inline int getFps() { return p_fps; };
+			static void Init();
+			static void Update();
+			static inline float GetDeltaTime() { return p_deltaTime; };
+			static inline int GetFps() { return p_fps; };
 		};
 	}
 }

@@ -160,6 +160,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="externals\stb_image\stb_image.cpp" />
+    <ClCompile Include="src\utilities\Input.cpp" />
     <ClCompile Include="src\graphics\data_buffers\IndexBuffer.cpp" />
     <ClCompile Include="src\graphics\data_buffers\VertexArray.cpp" />
     <ClCompile Include="src\graphics\data_buffers\VertexBuffer.cpp" />
@@ -173,6 +174,7 @@
     <ClCompile Include="src\utilities\Clock.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\utilities\Input.h" />
     <ClInclude Include="src\Core.h" />
     <ClInclude Include="externals\stb_image\stb_image.h" />
     <ClInclude Include="src\Engine.h" />
@@ -188,15 +190,12 @@
     <ClInclude Include="src\maths\vec\vec3.h" />
     <ClInclude Include="src\maths\vec\vec4.h" />
     <ClInclude Include="src\utilities\Clock.h" />
+    <ClInclude Include="src\utilities\KeyCodes.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\bin\Debug-Win32\Engine\Engine.dll" />
     <None Include="res\shaders\fragment_shader.glsl" />
     <None Include="res\shaders\vertex_shader.glsl" />
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="res\textures\logo.png" />
-    <Image Include="res\textures\wood.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

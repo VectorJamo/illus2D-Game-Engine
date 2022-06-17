@@ -28,6 +28,8 @@ namespace illus2d {
 
 			int getWidth() const;
 			int getHeight() const;
+
+			inline GLFWwindow* getWindowObject() { return p_window; }
 		};
 		I2D void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 

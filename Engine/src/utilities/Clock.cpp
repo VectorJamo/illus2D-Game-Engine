@@ -5,13 +5,18 @@
 
 namespace illus2d {
 	namespace util {
+		float Clock::p_lastTime;
+		float Clock::p_deltaTime;
+		int Clock::p_fps;
 
-		Clock::Clock()
-			: p_lastTime(0.0f), p_deltaTime(0.0f), p_fps(0)
-		{			
+		void Clock::Init()
+		{
+			p_lastTime = 0.0f;
+			p_deltaTime = 0.0f;
+			p_fps = 0.0f;
 		}
 
-		void Clock::processInputs()
+		void Clock::Update()
 		{
 			double currentTime = glfwGetTime();
 			p_deltaTime = (float)currentTime - p_lastTime;
