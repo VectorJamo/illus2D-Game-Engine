@@ -26,8 +26,10 @@ int main()
         window.clear();
         Clock::Update();
         Input::Update();
+
+        Clock::ShowFps();
        
-#if 1
+#if 0
         if(Input::IsKeyHold(KEY_SPACE))
             std::cout << "SPACE KEY IS HOLD!" << "\n";
         if (Input::IsKeyPressed(KEY_UP))

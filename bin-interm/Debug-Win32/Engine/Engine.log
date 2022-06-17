@@ -1,1 +1,5 @@
-﻿  Engine.vcxproj -> C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.dll
+﻿  Clock.cpp
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\utilities\Clock.cpp(17,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\utilities\Clock.cpp(18,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\2D Game Engine\illus2D-Game-Engine\Engine\src\utilities\Clock.cpp(35,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Engine.vcxproj -> C:\2D Game Engine\illus2D-Game-Engine\bin\Debug-Win32\Engine\Engine.dll
